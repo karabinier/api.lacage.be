@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.lacage.be", "api.lacage.be\api.lacage.be.csproj", "{5CDE30DD-A9DC-4AF1-A1EE-C89587C650F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common.lacage.be", "common.lacage.be\common.lacage.be.csproj", "{02ACD07E-EE99-46F1-BD0F-EC3C478FF400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "services.lacage.be", "services.lacage.be\services.lacage.be.csproj", "{723A4A6B-D9C1-40C4-A3A0-D2A34AD60D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data.lacage.be", "data.lacage.be\data.lacage.be.csproj", "{CD22EF4B-CCE3-4F6C-8C44-35E940357D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console.lacage.be", "console.lacage.be\console.lacage.be.csproj", "{27F564A5-5E75-47AF-802E-168DE9808411}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lacage.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = api.lacage.be\\api.lacage.be.csproj
+		SccProjectName1 = api.lacage.be
+		SccLocalPath1 = api.lacage.be
+		SccProjectUniqueName2 = common.lacage.be\\common.lacage.be.csproj
+		SccProjectName2 = common.lacage.be
+		SccLocalPath2 = common.lacage.be
+		SccProjectUniqueName3 = services.lacage.be\\services.lacage.be.csproj
+		SccProjectName3 = services.lacage.be
+		SccLocalPath3 = services.lacage.be
+		SccProjectUniqueName4 = data.lacage.be\\data.lacage.be.csproj
+		SccProjectName4 = data.lacage.be
+		SccLocalPath4 = data.lacage.be
+		SccProjectUniqueName5 = console.lacage.be\\console.lacage.be.csproj
+		SccProjectName5 = console.lacage.be
+		SccLocalPath5 = console.lacage.be
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDE30DD-A9DC-4AF1-A1EE-C89587C650F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDE30DD-A9DC-4AF1-A1EE-C89587C650F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDE30DD-A9DC-4AF1-A1EE-C89587C650F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDE30DD-A9DC-4AF1-A1EE-C89587C650F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02ACD07E-EE99-46F1-BD0F-EC3C478FF400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ACD07E-EE99-46F1-BD0F-EC3C478FF400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ACD07E-EE99-46F1-BD0F-EC3C478FF400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ACD07E-EE99-46F1-BD0F-EC3C478FF400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723A4A6B-D9C1-40C4-A3A0-D2A34AD60D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723A4A6B-D9C1-40C4-A3A0-D2A34AD60D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723A4A6B-D9C1-40C4-A3A0-D2A34AD60D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723A4A6B-D9C1-40C4-A3A0-D2A34AD60D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD22EF4B-CCE3-4F6C-8C44-35E940357D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD22EF4B-CCE3-4F6C-8C44-35E940357D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD22EF4B-CCE3-4F6C-8C44-35E940357D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD22EF4B-CCE3-4F6C-8C44-35E940357D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F564A5-5E75-47AF-802E-168DE9808411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F564A5-5E75-47AF-802E-168DE9808411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F564A5-5E75-47AF-802E-168DE9808411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F564A5-5E75-47AF-802E-168DE9808411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

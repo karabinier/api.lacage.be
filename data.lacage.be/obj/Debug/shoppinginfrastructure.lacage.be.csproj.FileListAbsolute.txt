@@ -1,0 +1,10 @@
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\shoppinginfrastructure.lacage.be.dll.config
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\shoppinginfrastructure.lacage.be.dll
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\shoppinginfrastructure.lacage.be.pdb
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\EntityFramework.dll
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\EntityFramework.xml
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\obj\Debug\shoppinginfrastructure.lacage.be.dll
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\obj\Debug\shoppinginfrastructure.lacage.be.pdb
+C:\TFSDATA\KissTheFuture\Trunk\shopping.lacage.be\shoppinginfrastructure.lacage.be\obj\Debug\shoppinginfrastructure.lacage.be.csprojResolveAssemblyReference.cache
